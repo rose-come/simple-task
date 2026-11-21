@@ -74,7 +74,7 @@ erDiagram
 
 **1. リポジトリをクローン**
 ```bash
-git clone https://github.com
+git clone https://github.com/rose-come/simple-task.git
 cd simple-task
 ```
 
